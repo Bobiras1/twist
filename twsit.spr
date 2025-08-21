@@ -1,0 +1,5 @@
+spr!
+truth = True
+lie = twist(truth)
+print(truth)
+print(lie)
