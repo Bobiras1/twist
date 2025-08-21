@@ -1,0 +1,1 @@
+This is another simple program in Spring programming language! on cmd prompt you type python Spring.py twist.spr and on the screen you can see the results it should run normally. Enjoy! it's an esoteric programming language a.i. oriented and flexible!!
